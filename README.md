@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @IrfanZulkarnain
-- 👀 I’m interested in Laravel framework
-- 🌱 I’m currently learning ... PHP Programming
-- 💞️ I’m looking to collaborate on ...
+- 📫 I am a software engineering student at Universiti Malaysia Terengganu, Malaysia.
+- 👀 I’m interested in Laravel framework.
+- 🌱 I’m currently learning -> PHP Programming (Laravel), TailwindCSS & Alpine.js.
+- 💞️ I’m looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com
 
 <!---
