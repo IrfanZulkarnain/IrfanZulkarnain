@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @IrfanZulkarnain
-- 📫 I am a Software Engineering student at Universiti Malaysia Terengganu, Malaysia.
-- 👀 I’m interested in Laravel framework.
-- 🌱 I’m currently learning -> PHP Programming (Laravel), TailwindCSS & Alpine.js.
-- 💞️ I’m looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
+- 📫 I possess the degree of Bachelor of Computer Science in Software Engineering from Universiti Malaysia Terengganu, Malaysia. (Graduated in Dec 2022)
+- 🌱 I have done my industrial training involving -> Laravel, TailwindCSS, Livewire
+- 👀 I’m interested in Laravel projects and currently mastering my -> Laravel (PHP Programming) skills.
+- 💞️ I’m also looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com
-- 🌱 I’m currently doing my industrial training involving -> Laravel Framework
 
 <!---
 IrfanZulkarnain/IrfanZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
