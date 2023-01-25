@@ -9,13 +9,10 @@
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com
 
 <h2 align="center"> Languages </h2>
- <br>
-<p>
+<br>
   <div align="center">
   </div>
-</div>
-<div>
-  <br>
+<br>
 <p align="center">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
