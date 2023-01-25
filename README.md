@@ -12,10 +12,8 @@
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com
 
 <h2 align="center"> Languages </h2>
-<br>
   <div align="center">
   </div>
-<br>
 <p align="center">          
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
