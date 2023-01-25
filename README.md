@@ -11,7 +11,7 @@
 - 💞️ I’m also looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Languages & Tools</h2>
   <div align="center">
   </div>
 <p align="center">      
