@@ -1,4 +1,4 @@
-<h2 align="center"> Are you stalking me? 👀 </h2>
+<h2 align="center">Are you stalking me? 👀</h2>
   <div align="center">
   </div>
 <div align='center'>
@@ -11,7 +11,7 @@
 - 💞️ I’m also looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com
 
-<h2 align="center"> Languages </h2>
+<h2 align="center">Languages</h2>
   <div align="center">
   </div>
 <p align="center">      
@@ -31,12 +31,12 @@
 </p>
 <br>
 
-<h2 align="center"> Some things I'm good at.</h2>
+<h2 align="center"> Some things I'm good at</h2>
   <div align="center">
   </div>
 <p align="center">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png?20210526085041" alt="Vegas Pro" width="40" height="40" /></a> 
-  
+  <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png?20210526085041" alt="Vegas Pro" width="40" height="40" /></a> 
+  <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/133px-Wondershare_filmora_logo.svg.png?20200924203624" alt="Wondershare filmora" width="40" height="40" ></a>
 </p>
 
 <!---
