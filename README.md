@@ -3,7 +3,7 @@
   </div>
 <div align='center'>
   Howdy, I'm Irfan Zulkarnain.
-  I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5800F7&width=435&lines=fresh+grad;software+engineer;web+developer;cat+lover;merc+geek)](https://git.io/typing-svg)
+  I'm a 
 </div>
 <br>
   
