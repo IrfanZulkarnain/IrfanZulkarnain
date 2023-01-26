@@ -3,7 +3,7 @@
   </div>
 <div align='center'>
   Howdy, I'm Irfan Zulkarnain.
-  I'm a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=5800F7&width=170&height=23&lines=fresh+graduate;software+engineer;web+developer;cat+lover;merc+geek" alt="Typing SVG" /></a>
+  I'm a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=5800F7&width=170&height=22&lines=fresh+graduate;software+engineer;web+developer;cat+lover;merc+geek" alt="Typing SVG" /></a>
 </div>
 <br>
   
