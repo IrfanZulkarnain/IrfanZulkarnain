@@ -45,8 +45,10 @@
   <div align="center">
   </div>
 <p align="center">
-  <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/stack-overflow_2111628?term=stack+overflow&page=1&position=1&origin=search&related_id=2111628" alt="Vegas Pro" width="40" height="40" /></a> 
-  <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/133px-Wondershare_filmora_logo.svg.png?20200924203624" alt="Wondershare filmora" width="40" height="40" ></a>
+  <li><a href="https://codepen.io/IpaneanDev" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
+  <li><a href="https://stackoverflow.com/users/19295103/irfandev" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+  <li><a href="https://www.linkedin.com/in/muhamad-irfan-zulkarnain-b6322822a/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
+  <li><a href="https://github.com/IrfanZulkarnain" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 </p>
 
 <!---
