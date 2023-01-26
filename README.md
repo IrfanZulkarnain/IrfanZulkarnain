@@ -1,4 +1,4 @@
-<h2 align="center">Are you stalking me? 👀</h2>
+<h2 align="center">About me 👀</h2>
   <div align="center">
   </div>
 <h3 align='center'>
