@@ -4,7 +4,7 @@
 <div align='center'>
   Howdy, I'm Irfan Zulkarnain.
   <p>I'm a</p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=5800F7&width=150&height=16&lines=fresh+graduate;software+engineer;web+developer;cat+lover;merc+geek" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5800F7&width=435&lines=fresh+graduate;software+engineer;web+developer;cat+lover;merc+geek" alt="Typing SVG" /></a>
 </div>
 <br>
   
