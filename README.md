@@ -2,7 +2,7 @@
   <div align="center">
   </div>
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=661EFF&center=true&vCenter=true&width=435&lines=Howdy!+I'm+Irfan.;Welcome+to+my+GitHub!;I'm+a+Software+Engineer+Fresh+Grad." alt="Typing SVG" /></a>
+  Howdy, I'm Irfan Zulkarnain
 </div>
   
 - 📫 I possess the degree of Bachelor of Computer Science in Software Engineering from Universiti Malaysia Terengganu, Malaysia. (Graduated in Dec 2022)
