@@ -45,7 +45,7 @@
   <div align="center">
   </div>
 <p align="center">
-  <a href="https://codepen.io/IpaneanDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="40" height="40"/></a>
+  <a href="https://codepen.io/IpaneanDev"><img src="https://img.favpng.com/17/10/5/codepen-icon-codepen-io-icon-png-favpng-G1VENsVUhUJqxKkFhGig3i32B.jpg" width="40" height="40"/></a>
   <a href="https://stackoverflow.com/users/19295103/irfandev"></a>
   <a href="https://www.linkedin.com/in/muhamad-irfan-zulkarnain-b6322822a/"></a>
   <a href="https://github.com/IrfanZulkarnain"></a>
