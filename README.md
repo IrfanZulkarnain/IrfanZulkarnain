@@ -33,7 +33,7 @@
 </p>
 <br>
 
-<h2 align="center">Some things I'm good at</h2>
+<h2 align="center">Some other things I'm good at</h2>
   <div align="center">
   </div>
 <p align="center">
