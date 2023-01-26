@@ -4,6 +4,7 @@
 <div align='center'>
   Howdy, I'm Irfan Zulkarnain
 </div>
+<br>
   
 - 📫 I possess the degree of Bachelor of Computer Science in Software Engineering from Universiti Malaysia Terengganu, Malaysia. (Graduated in Dec 2022)
 - 🌱 I have done my industrial training involving -> Laravel, TailwindCSS, Livewire, Bootstrap, MySQL
