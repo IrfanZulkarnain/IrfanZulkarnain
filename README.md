@@ -33,11 +33,19 @@
 </p>
 <br>
 
-<h2 align="center"> Some things I'm good at</h2>
+<h2 align="center">Some things I'm good at</h2>
   <div align="center">
   </div>
 <p align="center">
   <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png?20210526085041" alt="Vegas Pro" width="40" height="40" /></a> 
+  <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/133px-Wondershare_filmora_logo.svg.png?20200924203624" alt="Wondershare filmora" width="40" height="40" ></a>
+</p>
+
+<h2 align="center">Reach me through</h2>
+  <div align="center">
+  </div>
+<p align="center">
+  <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/stack-overflow_2111628?term=stack+overflow&page=1&position=1&origin=search&related_id=2111628" alt="Vegas Pro" width="40" height="40" /></a> 
   <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/133px-Wondershare_filmora_logo.svg.png?20200924203624" alt="Wondershare filmora" width="40" height="40" ></a>
 </p>
 
