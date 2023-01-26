@@ -2,7 +2,7 @@
   <div align="center">
   </div>
 <h3 align='center'>
-  Howdy, I'm Irfan Zulkarnain.
+  Howdy! I'm Irfan Zulkarnain.
   <p>I'm a</p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=5800F7&center=true&width=200&height=30&lines=fresh+graduate;software+engineer;web+developer;cat+lover;merc+geek" alt="Typing SVG" /></a>
 </h3>
