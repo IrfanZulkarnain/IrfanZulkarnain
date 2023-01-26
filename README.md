@@ -45,10 +45,10 @@
   <div align="center">
   </div>
 <p align="center">
-  <a href="https://codepen.io/IpaneanDev" class="icon brands fa-codepen"><span class="label">Codepen</span></a>
-  <a href="https://stackoverflow.com/users/19295103/irfandev" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a>
-  <a href="https://www.linkedin.com/in/muhamad-irfan-zulkarnain-b6322822a/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a>
-  <a href="https://github.com/IrfanZulkarnain" class="icon brands fa-github"><span class="label">GitHub</span></a>
+  <a href="https://codepen.io/IpaneanDev"></a>
+  <a href="https://stackoverflow.com/users/19295103/irfandev"></a>
+  <a href="https://www.linkedin.com/in/muhamad-irfan-zulkarnain-b6322822a/"></a>
+  <a href="https://github.com/IrfanZulkarnain"></a>
 </p>
 
 <!---
