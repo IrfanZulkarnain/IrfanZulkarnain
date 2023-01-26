@@ -48,7 +48,7 @@
   <a href="https://codepen.io/IpaneanDev"><img src="https://img.favpng.com/17/10/5/codepen-icon-codepen-io-icon-png-favpng-G1VENsVUhUJqxKkFhGig3i32B.jpg" width="40" height="40"/></a>
   <a href="https://stackoverflow.com/users/19295103/irfandev"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/muhamad-irfan-zulkarnain-b6322822a/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"/></a>
-  <a href="https://github.com/IrfanZulkarnain"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/></a>
+  <a href="https://github.com/IrfanZulkarnain"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" width="40" height="40"/></a>
 </p>
 
 <!---
