@@ -8,6 +8,8 @@
 </h3>
 <br>
   
+  <img src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif">
+  
 - 📫 I possess the degree of Bachelor of Computer Science in Software Engineering from Universiti Malaysia Terengganu, Malaysia. (Graduated in Dec 2022)
 - 🌱 I have done my industrial training involving -> Laravel, TailwindCSS, Livewire, Bootstrap, MySQL
 - 👀 I’m interested in Laravel projects and currently mastering my -> Laravel (PHP Programming) skills.
