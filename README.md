@@ -8,10 +8,10 @@
 </h3>
 <br>
   
-  <table style="width:100%">
+<table style="width:100%">
   <tr>
-    <th>ISBN</th>
-    <th>Title</th>
+    <th style="width:50%">ISBN</th>
+    <th style="width:50%">Title</th>
   </tr>
 </table>
   
