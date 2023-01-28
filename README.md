@@ -43,6 +43,7 @@
   <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png?20210526085041" alt="Vegas Pro" width="40" height="40" /></a> 
   <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/133px-Wondershare_filmora_logo.svg.png?20200924203624" alt="Wondershare filmora" width="40" height="40" ></a>
 </p>
+<br>
 
 <h2 align="center">Reach me through</h2>
   <div align="center">
@@ -53,6 +54,7 @@
   <a href="https://www.linkedin.com/in/muhamad-irfan-zulkarnain-b6322822a/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" width="40" height="40"/></a>
   <a href="https://github.com/IrfanZulkarnain"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_gray-512.png" width="40" height="40"/></a>
 </p>
+<br>
 
 <!---
 IrfanZulkarnain/IrfanZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
