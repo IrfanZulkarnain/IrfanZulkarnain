@@ -8,15 +8,10 @@
 </h3>
 <br>
   
-  <table>
-  <colgroup>
-    <col span="50%" style="background-color:red">
-    <col style="background-color:yellow">
-  </colgroup>
+  <table style="width:100%">
   <tr>
     <th>ISBN</th>
     <th>Title</th>
-    <th>Price</th>
   </tr>
 </table>
   
