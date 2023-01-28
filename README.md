@@ -8,13 +8,6 @@
 </h3>
 <br>
   
-<table style="width:100%">
-  <tr style="width:50%">
-    <th>ISBN</th>
-    <th>Title</th>
-  </tr>
-</table>
-  
   <img src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif">
   
 - 📫 I possess the degree of Bachelor of Computer Science in Software Engineering from Universiti Malaysia Terengganu, Malaysia. (Graduated in Dec 2022)
