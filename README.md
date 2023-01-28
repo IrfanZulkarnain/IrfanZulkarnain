@@ -8,6 +8,23 @@
 </h3>
 <br>
   
+  <table>
+  <colgroup>
+    <col span="2" style="background-color:red">
+    <col style="background-color:yellow">
+  </colgroup>
+  <tr>
+    <th>ISBN</th>
+    <th>Title</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>3476896</td>
+    <td>My first HTML</td>
+    <td>$53</td>
+  </tr>
+</table>
+  
   <img src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif">
   
 - 📫 I possess the degree of Bachelor of Computer Science in Software Engineering from Universiti Malaysia Terengganu, Malaysia. (Graduated in Dec 2022)
