@@ -9,9 +9,9 @@
 <br>
   
 <table style="width:100%">
-  <tr>
-    <th style="width:50%">ISBN</th>
-    <th style="width:50%">Title</th>
+  <tr style="width:50%">
+    <th>ISBN</th>
+    <th>Title</th>
   </tr>
 </table>
   
