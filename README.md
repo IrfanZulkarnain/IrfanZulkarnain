@@ -13,6 +13,7 @@
 - 👀 I’m interested in Laravel projects and currently mastering my -> Laravel (PHP Programming) skills.
 - 💞️ I’m also looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com or you may find my social media at the bottom
+<br>
 
 <h2 align="center">Languages & Tools</h2>
   <div align="center">
@@ -34,7 +35,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
 </p>
-<br>
 <br>
 
 <h2 align="center">Some other things I'm good at</h2>
