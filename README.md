@@ -19,7 +19,7 @@
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com or you may find my social media at the bottom
 <br>
 
-<h2 align="center">Languages & Tools</h2>
+<h2 align="center">Languages & Tools That I Use</h2>
   <div align="center">
   </div>
 <p align="center">      
