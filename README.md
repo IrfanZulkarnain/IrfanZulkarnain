@@ -12,7 +12,7 @@
 - 🌱 I have done my industrial training involving -> Laravel, TailwindCSS, Livewire, Bootstrap, MySQL
 - 👀 I’m interested in Laravel projects and currently mastering my -> Laravel (PHP Programming) skills.
 - 💞️ I’m also looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
-- 📫 Email me through irfanzulkarnain.dev@yahoo.com
+- 📫 Email me through irfanzulkarnain.dev@yahoo.com or you may find my social media at the bottom
 
 <h2 align="center">Languages & Tools</h2>
   <div align="center">
