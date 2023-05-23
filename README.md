@@ -67,12 +67,3 @@ https://count.getloli.com/get/@IrfanZulkarnain?theme=rule34
 IrfanZulkarnain/IrfanZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-  ((colors, query) =>
-    Array.from(document.querySelectorAll(query)).forEach(cell =>
-        cell.setAttribute(
-            "fill",
-            `#${colors[Math.floor(Math.random() * colors.length)]}`
-        )
-    ))(["c6e48b", "7bc96f", "239a3b", "196127"], ".js-calendar-graph-svg rect");
-
