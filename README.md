@@ -65,7 +65,7 @@ Professional Experience & Qualification:
 </p>
 <br>
 <h2 align="center">Visitor Counter</h2>
-<img src="https://count.getloli.com/get/@:IrfanZulkarnain?theme=rule34" alt=":IrfanZulkarnain" height="200%" width="auto" />
+<img align="center" src="https://count.getloli.com/get/@:IrfanZulkarnain?theme=rule34" alt=":IrfanZulkarnain" height="200%" width="auto" />
 
 <!---
 IrfanZulkarnain/IrfanZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
