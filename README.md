@@ -46,7 +46,6 @@ Professional Experience & Qualification:
   <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="50" height="50"/></a>
 </p>
 <br>
-
 <h2 align="center">Some other things I'm good at</h2>
   <div align="center">
   </div>
@@ -55,7 +54,6 @@ Professional Experience & Qualification:
   <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/133px-Wondershare_filmora_logo.svg.png?20200924203624" alt="Wondershare filmora" width="50" height="50" ></a>
 </p>
 <br>
-
 <h2 align="center">Reach me through</h2>
   <div align="center">
   </div>
@@ -66,7 +64,7 @@ Professional Experience & Qualification:
   <a href="https://github.com/IrfanZulkarnain"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_gray-512.png" width="50" height="50"/></a>
 </p>
 <br>
-
+<h2 align="center">Visitor Counter</h2>
 <img src="https://count.getloli.com/get/@:IrfanZulkarnain?theme=rule34" alt=":IrfanZulkarnain" />
 
 <!---
