@@ -67,7 +67,7 @@ Professional Experience & Qualification:
 </p>
 <br>
 
-<img src="https://count.getloli.com/get/@:IrfanZulkarnain" alt=":IrfanZulkarnain" />
+<img src="https://count.getloli.com/get/@:IrfanZulkarnain?theme=rule34" alt=":IrfanZulkarnain" />
 
 <!---
 IrfanZulkarnain/IrfanZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
