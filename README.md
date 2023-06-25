@@ -19,7 +19,7 @@
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com or you may find my social media at the bottom section
 <br>
 
-Professional Experience & Qualification:
+<h6>Professional Experience & Qualification:</h6>
 - 💼 (April 2023 - Present) - Currently probationing as a Software Developer in Kuala Lumpur 
 - 🌱 (Feb - July 2022) - Completed my industrial training involving -> Laravel, TailwindCSS, Livewire, Bootstrap, MySQL
 <br>
