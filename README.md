@@ -67,7 +67,7 @@ Professional Experience & Qualification:
 </p>
 <br>
 
-https://moe-counter.glitch.me/get/@:IrfanZulkarnain
+https://moe-counter.glitch.me/get/@:IrfanZulkarnain?theme=rule34
 
 <!---
 IrfanZulkarnain/IrfanZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
