@@ -66,7 +66,7 @@ Professional Experience & Qualification:
 <br>
 <h2 align="center">Visitor Counter</h2>
   <div align="center">
-    <img src="https://count.getloli.com/get/@:IrfanZulkarnain?theme=rule34" alt=":IrfanZulkarnain" style="height: 200% !important; width:auto; />
+    <img src="https://count.getloli.com/get/@:IrfanZulkarnain?theme=rule34" alt=":IrfanZulkarnain" />
   </div>
 
 <!---
