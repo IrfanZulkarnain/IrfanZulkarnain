@@ -14,10 +14,11 @@
 <br>
 
 - 📫 Holds a Bachelor's Degree of Computer Science in Software Engineering, graduated from Universiti Malaysia Terengganu, Malaysia in December 2022.
-- 🌱 Completed my industrial training involving -> Laravel, TailwindCSS, Livewire, Bootstrap, MySQL
+- 🌱 Completed my industrial training involving -> Laravel, TailwindCSS, Livewire, Bootstrap, MySQL. (Feb - July 2022)
+- 💼 Currently probationing as a Software Developer in Kuala Lumpur. (April 2022 - Present) 
 - 👀 Interested in Laravel projects and currently mastering my -> Laravel (PHP Programming) skills.
 - 💞️ Also looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more.
-- 📫 Email me through irfanzulkarnain.dev@yahoo.com or you may find my social media at the bottom
+- 📫 Email me through irfanzulkarnain.dev@yahoo.com or you may find my social media at the bottom of this page. 
 <br>
 
 <h2 align="center">Languages & Tools That I Use</h2>
