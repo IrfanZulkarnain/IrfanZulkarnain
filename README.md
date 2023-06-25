@@ -1,6 +1,4 @@
 <h2 align="center">About me 👀</h2>
-  <div align="center">
-  </div>
 <h3 align='center'>
   Howdy! I'm Irfan Zulkarnain.
   <p>I'm a</p>
@@ -11,7 +9,7 @@
 <div align="center">
   <img src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif">
 </div>
-<br>
+
 <h4>Briefly about myself:</h4>
 
 - 📫 Holds a Bachelor's Degree of Computer Science in Software Engineering, graduated from Universiti Malaysia Terengganu, Malaysia in December 2022
