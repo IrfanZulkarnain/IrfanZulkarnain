@@ -63,7 +63,7 @@
   <a href="https://github.com/IrfanZulkarnain"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_gray-512.png" width="50" height="50"/></a>
 </p>
 <br>
-<h2 align="center">Visitor Counter</h2>
+<h1 align="center">Visitor Counter</h1>
   <div align="center">
     <img src="https://count.getloli.com/get/@:IrfanZulkarnain?theme=rule34" alt=":IrfanZulkarnain" />
   </div>
