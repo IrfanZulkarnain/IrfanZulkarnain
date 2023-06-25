@@ -16,7 +16,6 @@
 - 👀 Interested in Laravel projects and currently mastering my -> Laravel (PHP Programming) skills
 - 💞️ Also looking to collaborate on any projects that involve Laravel framework because I want to expand my knowledge even more
 - 📫 Email me through irfanzulkarnain.dev@yahoo.com or you may find my social media at the bottom section
-<br>
 
 <h4>Professional Experience & Qualification:</h4>
 
