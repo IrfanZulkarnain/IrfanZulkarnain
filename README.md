@@ -74,6 +74,10 @@
 </p>
 <br>
 <h2 align="center">My Personal Website</h2>
+<p>
+  <a href="https://irfanzulkarnain.dev/"><img src="https://irfanzulkarnain.dev/assets/img/favicon.ico" width="50" height="50"/></a>
+  
+</p>
 <!---
 IrfanZulkarnain/IrfanZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
