@@ -50,7 +50,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/></a>
   <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="50" height="50"/></a>
-  <a href="https://mozilla.github.io/nunjucks/templating.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/file-type-nunjucks-icon-256x256-xfeydtg0.png" alt="nunjucks" width="50" height="50"/></a>
+  <a href="https://mozilla.github.io/nunjucks/templating.html" target="_blank" rel="noreferrer"><img src="https://ronnidc.gallerycdn.vsassets.io/extensions/ronnidc/nunjucks/0.3.1/1646865973639/Microsoft.VisualStudio.Services.Icons.Default" alt="nunjucks" width="50" height="50"/></a>
   <a href="https://www.11ty.dev/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/11ty/11ty-logo/HEAD/img/logo-400x400.png" alt="11ty" width="50" height="50"/></a>
   <a href="https://decapcms.org/docs/intro/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA0yvMYwpEPEKZFh38AgGYSgA9DX2QYsXRg&s" alt="decapcms" width="50" height="50"/></a>
   
