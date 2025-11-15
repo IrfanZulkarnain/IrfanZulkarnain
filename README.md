@@ -24,7 +24,8 @@
 
 <h4>Professional Experience & Qualification:</h4>
 
-- 🌱 (September 2023 - Present) - Software Developer in Johor Bahru, Johor 
+- 💼 (Jan 2024 - Present) - Software Developer at a company developing Computer Assisted Mass Appraisal system for local Authorities in Pahang, Perak & Terengganu, Malaysia
+- 🌱 (September 2023 - Present) - Freelance Website Designer in Johor Bahru, Johor, Malaysia 
 - 💼 (April - September 2023) - Software Developer in Cheras, Kuala Lumpur 
 - 🌱 (Feb - July 2022) - Completed my industrial training involving -> Laravel, TailwindCSS, Livewire, Bootstrap, MySQL
 <br>
